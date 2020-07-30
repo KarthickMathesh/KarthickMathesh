@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-🔗[twitter]
+[<img align="left" alt="karthickhelpdesk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
