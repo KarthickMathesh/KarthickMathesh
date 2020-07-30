@@ -10,10 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+🔗[twitter]
 
 <br />
 
@@ -26,7 +23,12 @@
 ---
 
 [workingon]: https://thesaiagro.in
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/KarthickMadesh
+[youtube]: https://www.youtube.com/karthickhelpdesk
+[instagram]: https://www.instagram.com/karthickhelpdesk/
 [linkedin]: https://www.linkedin.com/in/karthickmathesh/
+[github]: https://github.com/KarthickMathesh
+[codepen]: https://codepen.io/KarthickMathesh
+[scrimba]: https://scrimba.com/@KarthickMathesh
+[discord]: https://discord.gg/KF99kc
+[whatsapp]: https://wa.me/message/PKVFNKVBJLYBJ1
