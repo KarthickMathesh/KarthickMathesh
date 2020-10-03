@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I love to play Rubik's Cube and Learn more on YouTube.
 
 ### Connect with me:
-
-<img src="https://img.shields.io/twitter/follow/KarthickMadesh?style=for-the-badge">
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -19,6 +17,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img src="https://img.shields.io/twitter/follow/KarthickMadesh?style=for-the-badge" />][twitter]
 
 <br />
 
