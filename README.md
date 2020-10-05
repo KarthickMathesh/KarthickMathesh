@@ -17,7 +17,10 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img src="https://img.shields.io/twitter/follow/KarthickMadesh?style=for-the-badge" />][twitter]
+<br />
+[<img src="https://img.shields.io/twitter/follow/KarthickMadesh?style=social" />][twitter]
+
+
 
 <br />
 
