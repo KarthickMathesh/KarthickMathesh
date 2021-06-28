@@ -2,7 +2,7 @@
 ### Hi there, I'm Karthick Mathesh 👋
 
 ## I'm a Full Stack Web Developer
-- 🔭 I’m currently working on [10BucksOnly]!
+- 🔭 I’m currently working on Next Brain Tech, Bangalore!
 - 🌱 I’m currently learning Tamilwind CSS & other stuff's related to my profile 👷
 - 👯 I’m looking to collaborate & work other with people related to my profile.
 - 🥅 2021 Goals: Learn more and slove more.
@@ -38,8 +38,6 @@
 <br />
 
 ---
-
-[10BucksOnly]: https://10bucksonly.co.za
 [twitter]: https://twitter.com/KarthickMadesh
 [youtube]: https://www.youtube.com/karthickhelpdesk
 [instagram]: https://www.instagram.com/karthickhelpdesk/
