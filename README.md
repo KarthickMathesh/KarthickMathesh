@@ -3,8 +3,8 @@
 
 ## I'm a Full Stack Web Developer
 - 🔭 I’m currently working on Next Brain Tech, Bangalore!
-- 🌱 I’m currently learning Tamilwind CSS & Other stuff's related to my profile 👷
-- 🥅 2021 Goals: Learn more and slove more.
+- 🌱 I’m currently learning more stuff & working on laravel with vue.js.
+- 🥅 2022 Goals: Learn more and slove more.
 - ⚡ Fun fact: I love to play Rubik's Cube and Learn more on YouTube.
 
 ### Connect with me:
