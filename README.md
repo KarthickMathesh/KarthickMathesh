@@ -7,15 +7,9 @@
 - 🥅 2022 Goals: Learn more and slove more.
 - ⚡ Fun fact: I love to play Rubik's Cube and Learn more on YouTube.
 
-### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-<br />
 
----
-[youtube]: https://www.youtube.com/karthickhelpdesk
-[linkedin]: https://www.linkedin.com/in/karthickmathesh/
-[github]: https://github.com/KarthickMathesh
-[codepen]: https://codepen.io/KarthickMathesh
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthickMathesh&count_private=true&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarthickMathesh)](https://git.io/streak-stats)
